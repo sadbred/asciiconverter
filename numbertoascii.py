@@ -20,3 +20,4 @@ print("ASCII text:", result)
 
 input("Press Enter to clear the screen...")
 os.system('cls' if os.name == 'nt' else 'clear')
+input("Task completed. Press Enter to exit...")

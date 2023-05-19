@@ -6,3 +6,4 @@ def text_to_numbers(text):
 input_text = input("Enter the text: ")
 result = text_to_numbers(input_text)
 print("Result:", result)
+input("Task completed. Press Enter to exit...")
